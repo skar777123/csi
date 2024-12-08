@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { BackgroundBeams } from "./ui/background-beams";
-import Image from "next/image";
+// import Image from "next/image";
 
 export function Background() {
   return (
